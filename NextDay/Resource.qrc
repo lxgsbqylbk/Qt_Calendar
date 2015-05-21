@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/operation">
+        <file>ico/left.ico</file>
+        <file>ico/right.ico</file>
+        <file>ico/today.ico</file>
+        <file>ico/hide.ico</file>
+        <file>ico/quit.ico</file>
+        <file>ico/calendar.ico</file>
+    </qresource>
+    <qresource prefix="/zodiac">
+        <file>ico/0.ico</file>
+        <file>ico/1.ico</file>
+        <file>ico/2.ico</file>
+        <file>ico/3.ico</file>
+        <file>ico/4.ico</file>
+        <file>ico/5.ico</file>
+        <file>ico/6.ico</file>
+        <file>ico/7.ico</file>
+        <file>ico/8.ico</file>
+        <file>ico/9.ico</file>
+        <file>ico/10.ico</file>
+        <file>ico/11.ico</file>
+        <file>ico/aquarius.ico</file>
+        <file>ico/aries.ico</file>
+        <file>ico/cancer.ico</file>
+        <file>ico/capricorn.ico</file>
+        <file>ico/gemini.ico</file>
+        <file>ico/libra.ico</file>
+        <file>ico/lion.ico</file>
+        <file>ico/pisces.ico</file>
+        <file>ico/sagittarius.ico</file>
+        <file>ico/scorpio.ico</file>
+        <file>ico/taurus.ico</file>
+        <file>ico/virgo.ico</file>
+    </qresource>
+</RCC>
